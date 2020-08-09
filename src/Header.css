@@ -20,6 +20,7 @@
     align-items: center;
     width: 40%;
     border: 1px solid black;
+    text-decoration: none;
 }
 
 .header__icons {
