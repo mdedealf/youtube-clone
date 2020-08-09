@@ -1,3 +1,6 @@
+Link for testing the app
+https://clone-37afe.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
